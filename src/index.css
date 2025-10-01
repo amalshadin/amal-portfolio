@@ -7,7 +7,6 @@
 body {
   @apply bg-background text-primary;
 }
-
 /* Custom scrollbar for a more modern feel */
 ::-webkit-scrollbar {
   width: 8px;
